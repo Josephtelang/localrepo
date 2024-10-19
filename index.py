@@ -1,0 +1,1 @@
+print("nothing is difficult in the life.")
